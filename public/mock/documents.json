@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Driver's License",
+            "created_date": "2024-09-01T00:00:00.000Z",
+            "updated_date": "2024-09-01T00:00:00.000Z",
+            "status_id": 1,
+            "validated_by_id": 1,
+            "validated_date": "2024-09-02T00:00:00.000Z",
+            "file": {
+                "id": 1,
+                "name": "drivers-license.jpg",
+                "uri": "/assets/documents/drivers-license.jpg",
+                "type": "image"
+            },
+            "candidate_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Resume",
+            "created_date": "2024-09-01T00:00:00.000Z",
+            "updated_date": "2024-09-01T00:00:00.000Z",
+            "status_id": 0,
+            "validated_by_id": null,
+            "validated_date": null,
+            "file": {
+                "id": 1,
+                "name": "resume.jpg",
+                "uri": "/assets/documents/resume.jpg",
+                "type": "image"
+            },
+            "candidate_id": 1
+        },
+        {
+            "id": 3,
+            "name": "Resume",
+            "created_date": "2024-09-01T00:00:00.000Z",
+            "updated_date": "2024-09-01T00:00:00.000Z",
+            "status_id": 0,
+            "validated_by_id": null,
+            "validated_date": null,
+            "file": {
+                "id": 1,
+                "name": "resume.jpg",
+                "uri": "/assets/documents/resume.jpg",
+                "type": "image"
+            },
+            "candidate_id": 3
+        }
+    ]
+}
